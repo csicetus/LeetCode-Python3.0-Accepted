@@ -1,2 +1,2 @@
 # LeetCode-Python3.0-Accepted
-This is my Python solutions of Leetcode problems.
+This is the Python solutions of Leetcode problems I use.
