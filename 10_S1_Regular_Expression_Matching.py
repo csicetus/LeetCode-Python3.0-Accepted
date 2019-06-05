@@ -1,4 +1,4 @@
-# 2019-06-04  Runtime: 1592 ms
+# 2019-06-04  Runtime: 1556 ms
 
 class Solution(object):
     def isMatch(self, s, p):
