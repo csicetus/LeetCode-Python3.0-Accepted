@@ -18,12 +18,12 @@
     
 | \# | Problems | Difficulty | Solution |
 |----|----------|-----------|------|
-| 003  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Java](./3_ Longest_Substring_Without_Repeating_Characters.java)
+| 003  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Java](./Code/3_ Longest_Substring_Without_Repeating_Characters.java)
 | 076  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |Hard| [Java]
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Java]
 ----------------------------------
 ###  template
 | \# | Problems | Difficulty | Solution |
 |----|----------|-----------|------|
-| 001  | [Two_Sum](https://leetcode.com/problems/two-sum/)  | Easy | [Java](./code/lc1.java)
-| 002  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |Medium| [Java](./code/lc2.java) 
+| 001  | [Two_Sum](https://leetcode.com/problems/two-sum/)  | Easy | [Java]
+| 002  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |Medium| [Java] 
